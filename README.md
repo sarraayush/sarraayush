@@ -3,9 +3,15 @@
 <strong>Jss Academy of Technical eduaction , Noida</strong>. i am experienced developer skilled in c++ ,python and php , machine learning, MERN , javascript, NLP , Deep learning.
 With all this , i sometimes get my hands dirty with web hacking .  I am involved in a lot of organizational works in college related to clubs, hackathons,
 fests and workshops and helped in building many communities from scratch.</p>
+<p></p>
+<hr>
+<p></p>
 <h3>🥱 Pronouns</h3>
  
  He/Him
+ <p></p>
+<hr>
+<p></p>
  <h3>👻what am i doing and what have i done yet?</h3>
  <ul>
  <li>Intern at <i>ministry of tourism</i> , govt. of india and working on a project using MERN technology.</li>
@@ -15,6 +21,9 @@ fests and workshops and helped in building many communities from scratch.</p>
  <li>Learned web application hacking and experienced bug bounty hunting at hackerone and bugcrowd platform (2020)</li>
  <li>Got 96% 🤪 in PCM in Class 12th </li>
  </ul>
+ <p></p>
+<hr>
+<p></p>
  <h3>ME 😜</h3>
  <ul>
  <li> I Love to Sing but very bad singer 🥹.</li>
@@ -23,6 +32,9 @@ fests and workshops and helped in building many communities from scratch.</p>
  <!--<li>I love technology so much that I always want to explore every single technology but i know i can't.<li> -->
  <li>I love to go with those projects i dont know the technology about 🤣. </li>
  </ul>
+ <p></p>
+<hr>
+<p></p>
  <h3>How to reach me?</h3>
  <ul>
  <li> <a href="https://twitter.com/sarraayush">Twitter</a></li>
@@ -30,8 +42,11 @@ fests and workshops and helped in building many communities from scratch.</p>
 <li>My Personal Blog - <a href= "https://mycodevillage.blogspot.com">MyCodeVillage</a></li>
 <li><a href="mailto:aayushkumar17052002@gmail.com">Gmail</a></li>
  </ul>
+ <p></p>
+<hr>
+<p></p>
  <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarraayush&theme=dark)](https://git.io/streak-stats) -->
- <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" style="max-width: 100%;">
+ <p align="center"><img src="https://profile-counter.glitch.me/garimasingh128/count.svg" style="max-width: 100%;"></p>
  
  
  
