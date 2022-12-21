@@ -14,6 +14,7 @@ fests and workshops and helped in building many communities from scratch.</p>
 <p></p>
  <h3>👻what am i doing and what have i done yet?</h3>
  <ul>
+ <li>Currently exploring Ai/Ml with Deep learning and NLP with all required python libraries.</li>
  <li>Intern at <i>ministry of tourism</i> , govt. of india and working on a project using MERN technology.</li>
  <li>Currently working on a live project <a href= "https://github.com/yashgupta1109/JSS-SIM2">JSS-SIM</a> under <em>smart campus</em>.</li>
  <li>Learned php , mysql , dbms ,MERN (2022)</li>
@@ -24,6 +25,20 @@ fests and workshops and helped in building many communities from scratch.</p>
  <p></p>
 <hr>
 <p></p>
+<h3>Skillset 🗲: ( last Updated : December/2022)</h3>
+<ul>
+ <li>C, C++20 with STL and oops                                                           <span  >🌟🌟🌟🌟🌟</span>         </li>
+ <li>Python with Numpy , pandas , matplotlib , spacy                                      <span >🌟🌟🌟🌟</span>       </li>
+ <li>MERN : React , Node , MongoDB                                                             <span >🌟🌟🌟</span>        </li>
+ <li>web application hacking with networking                                                 <span >🌟🌟🌟🌟</span>         </li>
+ <li>frontend : Html , css ,javascript , bootstrap                                        <span >🌟🌟🌟🌟🌟</span>         </li>
+ <li>Backend: Php, Mysql                                                                  <span >🌟🌟🌟🌟🌟</span>       </li>
+ <li>Tools: BurpSuite , phpMyAdmin , VsCode , Github Desktop , Git                        <span >🌟🌟🌟🌟🌟</span>         </li>
+</ul>
+<p></p>
+<hr>
+<p></p>
+
  <h3>ME 😜</h3>
  <ul>
  <li> I Love to Sing but very bad singer 🥹.</li>
