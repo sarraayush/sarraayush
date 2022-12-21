@@ -65,7 +65,10 @@ fests and workshops and helped in building many communities from scratch.</p>
  <p align="center"><img src="https://profile-counter.glitch.me/Sarraayush/count.svg" style="max-width: 100%;"></p>
  <br>
  <br>
- <div><span align="left"><img src="https://github-readme-stats.vercel.app/api?username=sarraayush&amp;show_icons=true&amp;theme=gotham" style="max-width: 80%;"></span><span align="right"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sarraayush"/></a></span></div>
+ <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sarraayush&amp;show_icons=true&amp;theme=gotham" style="max-width: 80%;"></div>
+ <br>
+ <br>
+ <div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sarraayush"/></a></div>
  <p></p>
 <hr>
 <p></p>
