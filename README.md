@@ -20,7 +20,7 @@ fests and workshops and helped in building many communities from scratch.</p>
  <li>Learned php , mysql , dbms ,MERN (2022)</li>
  <li>Leaned DSA  with c++, complete c++ 20  , python and started practice on coding platforms (2021). </li>
  <li>Learned web application hacking and experienced bug bounty hunting at hackerone and bugcrowd platform (2020)</li>
- <li>Got 96% 🤪 in PCM in Class 12th </li>
+ <li>Got 96% 🤪 in PCM in Class 12th and 99% 😁 in class 10th.  </li>
  </ul>
  <p></p>
 <hr>
