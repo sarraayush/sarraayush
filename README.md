@@ -46,7 +46,11 @@ fests and workshops and helped in building many communities from scratch.</p>
 <hr>
 <p></p>
  <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarraayush&theme=dark)](https://git.io/streak-stats) -->
- <p align="center"><img src="https://profile-counter.glitch.me/garimasingh128/count.svg" style="max-width: 100%;"></p>
- 
- 
+ <p align="center">Visitor count</p>
+ <p align="center"><img src="https://profile-counter.glitch.me/Sarraayush/count.svg" style="max-width: 100%;"></p>
+ <p></p>
+ <div><span align="left"><img src="https://github-readme-stats.vercel.app/api?username=sarraayush&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;"></span><span>   </span><span align="right"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sarraayush"/></a></span></div>
+ <p></p>
+<hr>
+<p></p>
  
